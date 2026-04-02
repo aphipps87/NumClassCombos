@@ -1,3 +1,5 @@
+## PROJECT REQUIREMENTS:
+
 At your university, students often enroll in multiple courses. 
 
 The registrar’s office wants to determine how many distinct popular course combinations exist.
